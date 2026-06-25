@@ -44,7 +44,7 @@ Interactive **financial analytics dashboard** built in Power BI, analyzing **FY2
 ### 🖼️ Dashboard Preview
 
 <div align="center">
-  <img src="Financial_Analytics_Dashboard.png" width="85%" alt="Financial Analytics Dashboard preview"/>
+  <img src="Financial Analytics Dashboard.png" width="85%" alt="Financial Analytics Dashboard preview"/>
 </div>
 
 ---
